@@ -1,5 +1,5 @@
 # arm64digistumpunofficialbuild
-Unofficial build for Digistump for 64 bit arm compiled on raspbian containing micronucleus and launcher
+Unofficial Digistump build  for 64 bit arm compiled on raspbian containing the micronucleus and a launcher
 
 
 JSON for boards manager:
