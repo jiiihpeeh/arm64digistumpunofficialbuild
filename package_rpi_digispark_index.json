@@ -46,11 +46,6 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
-            },
-            {
               "packager": "digistump",
               "name": "micronucleus",
               "version": "2.0a4"
@@ -93,7 +88,7 @@
             },
             {
               "host": "aarch64-linux-gnu",
-              "archiveFileName": "micronucleus-2.0a4-linux.tar.gz",
+              "archiveFileName": "micronucleus-2.0a4-linux-arm64.tar.gz",
               "url": "https://github.com/jiiihpeeh/arm64digistumpunofficialbuild/blob/master/micronucleus-2.0a4-linux-arm64.tar.gz?raw=true",
               "checksum": "SHA-256:865291FC1676F350AF70EFE7EE6FC60A3DDC68FFDA109F6F445D504B08B55B82",
               "size": "28161"
