@@ -92,11 +92,11 @@
               "size": "22874"
             },
             {
-              "host": "armv7l-linux-gnueabihf",
+              "host": "aarch64-linux-gnu",
               "archiveFileName": "micronucleus-2.0a4-linux.tar.gz",
-              "url": "https://bittit.info/micronucleus-2.0a4-linux.tar.gz",
-              "checksum": "SHA-256:9F8E122B728CD2C87FBDC3BA8485218E1B5C757B78B5E3BD5748919DD754E5B3",
-              "size": "26836"
+              "url": "https://github.com/jiiihpeeh/arm64digistumpunofficialbuild/blob/master/micronucleus-2.0a4-linux-arm64.tar.gz?raw=true",
+              "checksum": "SHA-256:865291FC1676F350AF70EFE7EE6FC60A3DDC68FFDA109F6F445D504B08B55B82",
+              "size": "28161"
             }
           ]
         }
